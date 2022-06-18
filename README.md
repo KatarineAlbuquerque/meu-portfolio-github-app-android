@@ -41,4 +41,4 @@ O aplicativo utiliza metodologias fornecidas e eficazes da tecnologia para obter
 
 #### Katarine Albuquerque
 ##### _Linkedin_: <a href="https://www.linkedin.com/in/katarine-albuquerque/">/katarine-albuquerque</a>
-##### _GitHub_: <a herf="https://github.com/KatarineAlbuquerque">/KatarineAlbuquerque</a>
+##### _GitHub_: <a href="https://github.com/KatarineAlbuquerque">/KatarineAlbuquerque</a>
