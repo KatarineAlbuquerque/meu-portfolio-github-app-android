@@ -9,7 +9,7 @@ O aplicativo utiliza metodologias fornecidas e eficazes da tecnologia para obter
 
 ### II. Layout do Projeto
 
-<img src="./images/img.png" alt="Imagem App" width="230">
+<img src="./images/img1.png" alt="Imagem App" width="230">
 
 ### III. Tecnologias Utilizadas
 
