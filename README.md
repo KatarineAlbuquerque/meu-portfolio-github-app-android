@@ -3,7 +3,7 @@
 
 ### I. Sobre
 
-O objetivo do aplicativo é listar os meus repositórios do GitHub através da <a href="https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api">Api Rest</a> do GitHub.
+O objetivo do aplicativo é listar os meus repositórios do GitHub através da **<a href="https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api">Api Rest</a>** do GitHub.
 
 O aplicativo utiliza metodologias fornecidas e eficazes da tecnologia para obter uma melhor performace e oferecer uma organização no desenvolvimento.
 
