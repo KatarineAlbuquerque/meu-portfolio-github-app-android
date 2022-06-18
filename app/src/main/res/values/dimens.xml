@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_5dp">5dp</dimen>
+    <dimen name="layout_8dp">8dp</dimen>
+    <dimen name="layout_12dp">12dp</dimen>
+    <dimen name="layout_16dp">16dp</dimen>
+
+    <dimen name="font_size_18sp">18sp</dimen>
+    <dimen name="font_size_20sp">20sp</dimen>
+    <dimen name="font_size_23sp">23sp</dimen>
+
+    <dimen name="size_layout_image_star">35dp</dimen>
+    <dimen name="size_layout_image_user">200dp</dimen>
+</resources>

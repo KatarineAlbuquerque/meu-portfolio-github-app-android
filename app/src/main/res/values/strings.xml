@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Meu Portfólio</string>
+    <string name="app_github">GitHub</string>
+
+    <string name="my_name">Katarine"\n"Albuquerque</string>
+    <string name="user">KatarineAlbuquerque</string>
+
+    <string name="cd_star_image">Star Image</string>
+    <string name="cd_illustrative_picture">Illustrative picture</string>
+    <string name="cd_my_image">My Image</string>
+
+    <string name="url_image">https://avatars.githubusercontent.com/u/95772817?v=4</string>
+</resources>
