@@ -1,4 +1,4 @@
-# Meu Portifólio GitHub
+# Meu Portfólio GitHub
 ### App Android
 
 ### I. Sobre
